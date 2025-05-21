@@ -14,6 +14,7 @@ Project description file.
 python main.py --config_file config.py
 ```
 ## BibTeX
+```sh
 @misc{luo2025llmcotenhancedgraphneural,
       title={LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization}, 
       author={Hailong Luo and Bin Wu and Hongyong Jia and Qingqing Zhu and Lianlei Shan},
